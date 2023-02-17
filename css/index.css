@@ -1,0 +1,16 @@
+.albums a {
+    color: black;
+}
+
+.albums .card:hover {
+    outline: 4px solid rgb(208, 255, 0);
+}
+
+body {
+    font-family: 'Tenor Sans', sans-serif;
+    background-color: #F5F5DC;
+}
+
+div.card {
+    border-radius: 0px;
+}

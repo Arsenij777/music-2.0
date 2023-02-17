@@ -1,0 +1,18 @@
+.list-group-item:hover {
+    outline: 1px solid #ffdb4d;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.progress {
+    border-radius: 8px;
+    width: 300px;
+    position: absolute;
+    right: 60px;
+    bottom: 24px;
+}
+
+body {
+    font-family: 'Tenor Sans', sans-serif;
+    background-color: #F5F5DC;
+}
